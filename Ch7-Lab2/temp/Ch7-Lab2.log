@@ -1,0 +1,9 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(376,5): warning MSB8004: Intermediate 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Intermediate 目錄。
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(377,5): warning MSB8004: Output 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Output 目錄。
+  main.c
+c:\users\user\desktop\ch7\ch7-lab2\source\main.c(38): warning C4477: 'fscanf_s' : 格式字串 '%1f' 需要 'float *' 類型的引數，但 variadic 引數 1 的類型為 'double *'
+  c:\users\user\desktop\ch7\ch7-lab2\source\main.c(38): note: 請考慮在格式字串中使用 '%lf'
+c:\users\user\desktop\ch7\ch7-lab2\source\main.c(53): warning C4047: '函式': 'FILE **' 與 'FILE *' 間接取值的層級不同
+c:\users\user\desktop\ch7\ch7-lab2\source\main.c(53): warning C4024: 'fopen_s': 型式和實質參數 1 不同的類型
+c:\users\user\desktop\ch7\ch7-lab2\source\main.c(53): warning C4047: '=': 'FILE *' 與 'errno_t' 間接取值的層級不同
+  Ch7-Lab2.vcxproj -> C:\Users\User\Desktop\Ch7\Ch7-Lab2\Ch7-Lab2\Ch7-Lab2\..\..\temp\debug\Ch7-Lab2.exe
